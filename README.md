@@ -1,1 +1,1 @@
-# score-diffusion-ml
+# Training Score-Based Generative Model for Range Doppler Data
